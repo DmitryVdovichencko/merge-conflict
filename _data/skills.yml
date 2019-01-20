@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+  #  Development
+- skill: HTML
+  description: HTML5
+ - skill: CSS
+  description: Responsive layout with CSS Grid and Flexbox
+  
+  
